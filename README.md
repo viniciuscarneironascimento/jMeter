@@ -1,4 +1,4 @@
-# projeto-test-newman
+# jMeter
 
 🔗 [Acesse o repositório no GitHub](https://github.com/viniciuscarneironascimento/jMeter)
 
